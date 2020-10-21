@@ -1,4 +1,4 @@
-### Hi there 👋
+### I'm Jermaine and Im a developer and a rocket nerd.
 
 <!--
 **jermainem/jermainem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
